@@ -1,0 +1,48 @@
+{
+    "rule-groups":[
+        {
+            "group-name": "general",
+            "regulations": [
+                {
+                    "correct-form": "诶",
+                    "check-list": [
+                        "欸",
+                        "誒",
+                        "额"
+                    ]
+                },{
+                    "correct-form": "哦",
+                    "check-list":[
+                        "喔",
+                        "噢",
+                        "嚄"
+                    ]
+                }
+            ]
+        },
+        {
+            "group-name": "formats",
+            "regulations":[
+                {
+                    "correct-form": " ",
+                    "check-list": [
+                        "  ",
+                        "　"
+                    ]
+                }
+            ]
+        },
+        {
+            "group-name": "lyrics",
+            "regulations":[
+                {
+                    "correct-form": "　",
+                    "check-list":[
+                        " ",
+                        "  "
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 # 视频合并脚本
 #
-# 将Bilibili官方分段录像合并为一个MP4文件
+# 将Bilibili官方分段录像(FLV)合并为一个MP4文件
 
 import logging
 import os

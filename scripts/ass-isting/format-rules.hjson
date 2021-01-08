@@ -1,0 +1,16 @@
+{
+    // 允许叠轴
+    "allow-repeat": false,
+    // 最小轴间距
+    "min-gap": 300,
+    // 最大轴间距
+    "max-gap": -1,
+    // 最小轴长
+    "min-line-length": 500,
+    // 最大轴长
+    "max-line-length": 9000,
+    // 允许交错
+    "allow-cross": true,
+    // 最小交错限制
+    "min-cross-limit": 50
+}
