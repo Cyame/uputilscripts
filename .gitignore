@@ -130,4 +130,9 @@ dmypy.json
 
 
 # Test Video Sequences
-workload/*
+workload/*.mkv
+workload/*.mp4
+workload/*.flv
+workload/*.xml
+workload/*.ass
+workload/tsfile/*
