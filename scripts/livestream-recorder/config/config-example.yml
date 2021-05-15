@@ -1,0 +1,11 @@
+room-name: aaa
+stream-platform: bilibili
+room-number: 12345678
+
+lazy-check: 300
+busy-check: 30
+
+planned-stream-time: "E8-21:00"
+busy-range: 1800
+
+log-level: info
