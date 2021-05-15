@@ -1,7 +1,3 @@
-# 视频合并脚本
-#
-# 将Bilibili官方分段录像(FLV)合并为一个MP4文件
-
 import logging
 import os
 import shutil
@@ -13,6 +9,22 @@ from natsort import natsorted
 
 logger = logging.getLogger(__name__)
 
+script_description = '''
+时轴规范检测脚本 v0.1
+BY 茶目
+
+用于帮助批量修改时轴上的错误，如闪轴/长轴/叠轴等问题。
+简化字幕规范化流程。
+'''
+
+script_paralist = '''
+kanji-manager: [-f|-c|-s] <your-rule-groups> <your-ass-path> [<your-target-output-path>]
+
+-- options --
+-f: force mode - Overwrite the origin ass with modification
+-c: check mode - Do no modification, just checkout the potential problems
+-s: standard mode(Recommended/Default) - Generate a modified copy in your current path (You can name it by using the third parameter, or otherwise the file name will be "km-mod-output[time].ass" acquiescently)
+'''
 
 def video_convert(in_path, out_path):
     FFmpeg(inputs={in_path: None}, outputs={
@@ -80,6 +92,10 @@ if __name__ == '__main__':
     else:
         root_dir = os.path.dirname(os.path.abspath(__file__))
         flv_dir_to_mp4(root_dir, os.path.join(root_dir, 'out.mp4'))
+
+
+
+    # TODO 强制合并
 
     end = perf_counter()
     print('Running time: %s Seconds' % (end-start))

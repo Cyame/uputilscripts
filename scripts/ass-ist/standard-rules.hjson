@@ -1,17 +1,25 @@
 {
+    # 请勿修改
     "rule-groups":[
+        # 规则组
         {
+            # 规则组名
             "group-name": "general",
+            # 规则
             "regulations": [
                 {
+                    # 正确形式
                     "correct-form": "诶",
+                    # 替换形式
                     "check-list": [
                         "欸",
                         "誒",
                         "额"
                     ]
                 },{
+                    # 正确形式
                     "correct-form": "哦",
+                    # 替换形式
                     "check-list":[
                         "喔",
                         "噢",
@@ -21,10 +29,14 @@
             ]
         },
         {
+            # 规则组名
             "group-name": "formats",
+            # 规则
             "regulations":[
                 {
+                    # 正确形式
                     "correct-form": " ",
+                    # 替换形式
                     "check-list": [
                         "  ",
                         "　"
@@ -33,10 +45,14 @@
             ]
         },
         {
+            # 规则组名
             "group-name": "lyrics",
+            # 规则
             "regulations":[
                 {
+                    # 正确形式
                     "correct-form": "　",
+                    # 替换形式
                     "check-list":[
                         " ",
                         "  "

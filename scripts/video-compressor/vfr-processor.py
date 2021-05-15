@@ -1,0 +1,1 @@
+# ffmpeg -i 心引力.flv -vsync cfr -vcodec h264_qsv -b:v 5000K output_xyl.mp4

@@ -1,0 +1,7 @@
+# 默认输出
+default-output-filename: COMP-OUT{time}.mp4
+# 默认VFR
+enable-vfr : true
+vfr : 17
+# 默认比特率
+bitrate: 5000K
