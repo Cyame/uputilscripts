@@ -1,0 +1,26 @@
+
+#### 通用设置 ####
+
+# Classic/Pornhub/Gaussian/Creative
+theme: Classic
+# Bilibili/YouTube
+platform: Bilibili
+# JPEG
+file-name: thumb
+
+#### 主标题：使用统一样式 ####
+integrated-main-title: 好想爱这个世界啊
+
+#### 主标题：使用两段样式 ####
+
+# 是否采用两段式：采用则integrated-main-title失效
+divide-main-title: true
+main-title-1: 好想爱
+main-title-2: 这个世界啊
+hightlights:
+  - main-title-1
+
+# 主标题位置
+main-title-align: right-bottom
+
+sub-title: 0515歌回

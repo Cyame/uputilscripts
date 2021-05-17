@@ -1,5 +1,5 @@
 # 默认输出
-default-output-filename: COMP-OUT{time}.mp4
+default-output-filename: example.mp4
 # 默认VFR
 enable-vfr : true
 vfr : 17

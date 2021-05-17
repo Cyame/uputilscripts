@@ -1,0 +1,4 @@
+ffmpeg==1.4
+ffmpy==0.2.3
+natsort==7.1.0
+pyyaml==5.3.1
