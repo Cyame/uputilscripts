@@ -1,3 +1,8 @@
+---
+# What form would you prefer? (xls/quote/line)
+output-type: line
+
+---
 # Notation refers to https://fimi.info/pinyin/onsetu/
 
 a:
@@ -1519,6 +1524,27 @@ li:
   - り
   - り
 
+ji:
+  - じ
+  - じ
+  - じ
+  - じ
+  - じ
+
+qi:
+  - ち
+  - ち
+  - ち
+  - ち
+  - ち
+
+xi:
+  - し
+  - し
+  - し
+  - し
+  - し
+
 zi:
   - ず
   - ず
@@ -1736,6 +1762,13 @@ xian:
   - しあん
   - しあん
 
+niang:
+  - にあん
+  - にあん
+  - にあん
+  - にあん
+  - にあん
+
 liang:
   - りゃあん
   - りゃあん
@@ -1875,6 +1908,13 @@ xin:
   - しん
   - しん
   - しん
+
+yin:
+  - いん
+  - いん
+  - いん
+  - いん
+  - いん
 
 bing:
   - びん

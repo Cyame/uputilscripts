@@ -137,3 +137,5 @@ workload/*.xml
 workload/*.ass
 workload/tsfile/*
 
+# IDE
+.vscode/

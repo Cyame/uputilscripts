@@ -27,9 +27,9 @@ A collection of some useful scripts for video uploaders, basically in Python.
 
 ## Usage | 使用
 
-本脚本集合中均基于统一的批处理模式，不同类处理不冲突（视频/时轴）。
+本脚本集合均基于配置文件+Simply运行的模式，对于不同类处理不冲突（视频/时轴）。具体操作方法参见`script/*`各脚本文件夹内README说明。
 
 ```
-$ python <script-name> <workload-folder>
+$ python <script-name> <workload-folder/target-file>
 ```
 
