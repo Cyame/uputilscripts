@@ -7,15 +7,19 @@
 
 # uputilscripts | UP主实用脚本合集
 
-![PYTHON3.7](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&style=flat-square&link=https://www.python.org/)&nbsp;![MIT](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=red&style=flat-square&link=https://github.com/Cyame/uputilscripts/blob/v3/LICENSE)&nbsp;![COMMITIZEN](https://img.shields.io/static/v1?label=commitzen&message=friendly&color=brightgreen&style=flat-square&link=http://commitizen.github.io/cz-cli/)
-
 A collection of some useful scripts for video uploaders, basically in Python
 
-一些UP主和搬运主可能会常用的PY脚本，大部分将用于视频压制或批处理。不定时更新
+一些UP主和搬运主可能会常用的PY脚本 大部分可用于视频投稿相关的批处理 不定时更新
 
 </div>
 
+<p align="center">
 
+<a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&style=flat-square" alt="Python 3.7"></a>
+<a href="https://github.com/Cyame/uputilscripts/blob/v3/LICENSE"><img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=red&style=flat-square" alt="MIT License"></a>
+<a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/static/v1?label=commitzen&message=friendly&color=brightgreen&style=flat-square" alt="CommitZen Friendly"></a>
+
+</p>
 ## Get Started | 开始
 
 ### 安装
