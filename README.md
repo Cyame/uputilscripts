@@ -13,9 +13,7 @@ A collection of some useful scripts for video uploaders, basically in Python
 
 </div>
 
-<p align="center">
-
-<a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&style=flat-square" alt="Python 3.7"></a>
+<p align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&style=flat-square" alt="Python 3.7"></a>
 <a href="https://github.com/Cyame/uputilscripts/blob/v3/LICENSE"><img src="https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=red&style=flat-square" alt="MIT License"></a>
 <a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/static/v1?label=commitzen&message=friendly&color=brightgreen&style=flat-square" alt="CommitZen Friendly"></a>
 
