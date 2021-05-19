@@ -3,7 +3,7 @@
 <p align="center"><a href="https://space.bilibili.com/2265912"><img src="https://i.loli.net/2021/05/19/97rzoRaixOjsB5E.png" width="200" height="200" alt="UpUtilScripts"/></a></p>
 
 
-<div align=“center”>
+<div align="center">
 
 # uputilscripts | UP主实用脚本合集
 
@@ -20,6 +20,7 @@ A collection of some useful scripts for video uploaders, basically in Python
 <a href="http://commitizen.github.io/cz-cli/"><img src="https://img.shields.io/static/v1?label=commitzen&message=friendly&color=brightgreen&style=flat-square" alt="CommitZen Friendly"></a>
 
 </p>
+
 ## Get Started | 开始
 
 ### 安装
