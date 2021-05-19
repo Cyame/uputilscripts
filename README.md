@@ -1,8 +1,19 @@
+
+
+<p align="center"><a href="https://space.bilibili.com/2265912"><img src="https://i.loli.net/2021/05/19/97rzoRaixOjsB5E.png" width="200" height="200" alt="UpUtilScripts"/></a></p>
+
+
+<div align=“center”>
 # uputilscripts | UP主实用脚本合集
 
-A collection of some useful scripts for video uploaders, basically in Python.
+![PYTHON3.7](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&style=flat-square&link=https://www.python.org/)&nbsp;![MIT](https://img.shields.io/static/v1?label=LICENSE&message=MIT&color=red&style=flat-square&link=https://github.com/Cyame/uputilscripts/blob/v3/LICENSE)&nbsp;![COMMITIZEN](https://img.shields.io/static/v1?label=commitzen&message=friendly&color=brightgreen&style=flat-square&link=http://commitizen.github.io/cz-cli/)
 
-一些UP主和搬运主可能会常用的PY脚本，大部分将用于视频压制或批处理。不定时更新。
+A collection of some useful scripts for video uploaders, basically in Python
+
+一些UP主和搬运主可能会常用的PY脚本，大部分将用于视频压制或批处理。不定时更新
+
+</div>
+
 
 ## Get Started | 开始
 
@@ -33,3 +44,28 @@ A collection of some useful scripts for video uploaders, basically in Python.
 $ python <script-name> <workload-folder/target-file>
 ```
 
+## Dev Plan | 开发计划
+
+#### 压制
+
+1. 正常挂载VSF的ass压制
+2. 含字幕的大小限制压制
+3. 含字幕的码率限制压制
+4. vfr2cfr转换
+5. 源轨音频提取
+
+#### 特效/滤镜
+
+1. 挂载VSMOD压制
+2. 片头片尾压制
+
+#### 整合（暂缓）
+
+1. 工具整合
+
+#### 投稿
+
+1. 封面模板
+2. 投稿简介生成
+3. 录制脚本
+4. 防撞车脚本

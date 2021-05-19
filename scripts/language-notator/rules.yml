@@ -2,6 +2,9 @@
 # What form would you prefer? (xls/quote/line)
 output-type: line
 
+# What would you want for? (hiragana/katakana/pinyin/romaji)
+# TODO
+output-mode: hira
 ---
 # Notation refers to https://fimi.info/pinyin/onsetu/
 
