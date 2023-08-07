@@ -1,0 +1,26 @@
+[{
+  "Author": "Jawslouis",
+  "Name": "MakePlace Plugin",
+  "InternalName": "MakePlacePlugin",
+  "AssemblyVersion": "2.22",
+  "Punchline": "适用于国服版本的装修模拟器配套插件。国服更新6.3了，英文版应该可以直接用了。配合MakePalce软件使用。",
+  "Description": "适用于国服版本的装修模拟器配套插件。国服更新6.3了，英文版应该可以直接用了。Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/haruka411/MakePlacePlugin",
+  "Tags": [
+    "makeplace",
+    "housing",
+    "furniture",
+    "jawslouis",
+    "cn"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/haruka411/MakePlacePlugin/master-cn/icon.png",
+  "DownloadCount": 95130,
+  "DownloadLinkInstall": "https://raw.fastgit.org/haruka411/MakePlacePlugin/master-cn/MakePlacePlugin.zip",
+  "DownloadLinkTesting": "https://raw.fastgit.org/haruka411/MakePlacePlugin/master-cn/MakePlacePlugin.zip",
+  "DownloadLinkUpdate": "https://raw.fastgit.org/haruka411/MakePlacePlugin/master-cn/MakePlacePlugin.zip",
+  "_isDip17Plugin": false,
+  "_Dip17Channel": null
+}]
